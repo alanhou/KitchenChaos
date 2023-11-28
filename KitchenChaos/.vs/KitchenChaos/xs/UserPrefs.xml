@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Testing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyCodeStyle.cs">
     <Files>
-      <File FileName="Assets/Testing.cs" Line="16" Column="36" />
+      <File FileName="Assets/MyCodeStyle.cs" Line="20" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KitchenChaos" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="MyCodeStyle.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
