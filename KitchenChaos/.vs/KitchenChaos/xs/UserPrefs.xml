@@ -1,23 +1,19 @@
 ﻿<Properties StartupConfiguration="{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyCodeStyle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
-      <File FileName="Assets/MyCodeStyle.cs" Line="20" Column="4" />
+      <File FileName="Assets/Scripts/Player.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="KitchenChaos" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="MyCodeStyle.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="KitchenChaos" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8fba0990-10bf-484a-902d-2ed38adcc26c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96e8acbd-0bce-472e-8dd5-545c31a427d4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
